@@ -10,4 +10,4 @@ ruby eksiscript.rb
 Enter url => https://eksisozluk.com/evlenmek-icin-muhtesem-15-sebep--5250583?a=popular
 Enter keyword => hayat
 
-![alt text](http://imgur.com/a/fLqsv "Example Picture")
+![alt text](http://i.imgur.com/1WmsEOg.png "Example Picture")
